@@ -8,7 +8,7 @@
 	<classpathentry kind="src" path="helloworld"/>
 	<classpathentry kind="src" path="WeatherCSV"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
-	<classpathentry kind="lib" path="/Users/sjohnson/git/course1/course1/apache-csv 1.03.47 PM.jar"/>
-	<classpathentry kind="lib" path="/Users/sjohnson/git/course1/course1/courserajava 1.02.38 PM.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sjohnson/git/java_course1/course1/apache-csv 1.03.47 PM.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sjohnson/git/java_course1/course1/courserajava 1.02.38 PM.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
